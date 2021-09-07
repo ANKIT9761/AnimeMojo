@@ -1,3 +1,12 @@
+# Anime Mojo
+
+Built using React.js
+
+### What does this app do?
+
+- This app recommends Anime based on genre.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
